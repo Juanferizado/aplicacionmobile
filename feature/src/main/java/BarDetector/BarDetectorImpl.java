@@ -1,0 +1,4 @@
+package BarDetector;
+
+class BarDetectorImpl {
+}
